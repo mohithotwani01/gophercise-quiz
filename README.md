@@ -1,1 +1,3 @@
-# gophercise-quiz
+# QUIZ
+
+Lerning golang by making projects
